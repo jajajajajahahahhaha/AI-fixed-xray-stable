@@ -17,7 +17,7 @@
         "max_ips": 2,
         "is_proxy_type": false,
         "proxy_protocol": "socks5",
-        "use_runner_balancer": false,
+        "use_runner_balancer": true,
         "optimization": false,
         "private_tunnel_enabled": false,
         "private_tunnel_host": "",
