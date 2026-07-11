@@ -2,9 +2,17 @@
     "1.1.1.1": {
         "user": "Main_kill_pv2_8086",
         "first_seen": 1783781812,
-        "last_seen": 1783781817,
+        "last_seen": 1783781834,
         "used_bytes": 0,
         "sites": [],
-        "connections": 6
+        "connections": 12
+    },
+    "8.8.8.8": {
+        "user": "Main_kill_pv2_8086",
+        "first_seen": 1783781877,
+        "last_seen": 1783781877,
+        "used_bytes": 0,
+        "sites": [],
+        "connections": 1
     }
 }

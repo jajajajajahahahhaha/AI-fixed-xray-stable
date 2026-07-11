@@ -42,3 +42,11 @@
 2026-07-11T14:55:50Z INF precheck component="TCP Connectivity" details="HTTP/2 connection successful" run_id=41861579-22a5-4c06-ab36-40b13ff25435 status=pass target=region2.v2.argotunnel.com
 2026-07-11T14:55:50Z INF precheck component="Cloudflare API" details="API is reachable" run_id=41861579-22a5-4c06-ab36-40b13ff25435 status=pass target=api.cloudflare.com:443
 2026-07-11T14:55:50Z INF precheck complete hard_fail=false run_id=41861579-22a5-4c06-ab36-40b13ff25435 suggested_protocol=quic
+2026-07-11T14:57:25Z ERR  error="Incoming request ended abruptly: context canceled" connIndex=0 event=1 ingressRule=0 originService=http://127.0.0.1:8080
+2026-07-11T14:57:25Z ERR Request failed error="Incoming request ended abruptly: context canceled" connIndex=0 dest=https://fence-variations-sponsors-introduces.trycloudflare.com/ event=0 ip=198.41.192.27 type=http
+2026-07-11T14:57:30Z ERR  error="Incoming request ended abruptly: context canceled" connIndex=0 event=1 ingressRule=0 originService=http://127.0.0.1:8080
+2026-07-11T14:57:30Z ERR Request failed error="Incoming request ended abruptly: context canceled" connIndex=0 dest=https://fence-variations-sponsors-introduces.trycloudflare.com/api/ip_connections event=0 ip=198.41.192.27 type=http
+2026-07-11T14:57:30Z ERR  error="Incoming request ended abruptly: context canceled" connIndex=0 event=1 ingressRule=0 originService=http://127.0.0.1:8080
+2026-07-11T14:57:30Z ERR Request failed error="Incoming request ended abruptly: context canceled" connIndex=0 dest=https://fence-variations-sponsors-introduces.trycloudflare.com/ event=0 ip=198.41.192.27 type=http
+2026-07-11T14:57:35Z ERR  error="Incoming request ended abruptly: context canceled" connIndex=0 event=1 ingressRule=0 originService=http://127.0.0.1:8080
+2026-07-11T14:57:35Z ERR Request failed error="Incoming request ended abruptly: context canceled" connIndex=0 dest=https://fence-variations-sponsors-introduces.trycloudflare.com/ event=0 ip=198.41.192.27 type=http
