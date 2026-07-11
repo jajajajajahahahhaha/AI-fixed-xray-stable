@@ -1,0 +1,26 @@
+{
+    "Main_kill_pv2_8086": {
+        "uuid": "65d16cb9-50a2-4b6f-847e-c29486fcff50",
+        "total_limit_bytes": 0,
+        "used_bytes": 22194,
+        "clean_ip": "172.64.149.23",
+        "custom_host": "",
+        "status": "ONLINE",
+        "last_active_time": 1783781817.704245,
+        "down_speed": 968472,
+        "up_speed": 38969,
+        "created_at": 1783781746,
+        "expire_seconds": 31536000,
+        "active": true,
+        "coefficient": 1.0,
+        "real_traffic": false,
+        "max_ips": 2,
+        "is_proxy_type": false,
+        "proxy_protocol": "socks5",
+        "use_runner_balancer": false,
+        "optimization": false,
+        "private_tunnel_enabled": false,
+        "private_tunnel_host": "",
+        "subscription_alias": ""
+    }
+}
